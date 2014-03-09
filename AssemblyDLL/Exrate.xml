@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<synonymous>
+		<currency name="TWD" ctname="新台幣">
+			<item value="NTD"/>
+			<item value="TWD"/>
+			<item value="NT"/>
+			<item value="新台幣"/>
+			<item value="台幣"/>
+		</currency>
+		<currency name="JPY" ctname="日圓">
+			<item value="JPY"/>
+			<item value="日幣"/>
+			<item value="日圓"/>
+		</currency>
+		<currency name="USD" ctname="美金">
+			<item value="USD"/>
+			<item value="美金"/>
+		</currency>
+		<currency name="GBP" ctname="英鎊">
+			<item value="GBP"/>
+			<item value="英鎊"/>
+		</currency>
+		<currency name="HKD" ctname="港幣">
+			<item value="HKD"/>
+			<item value="港幣"/>
+		</currency>
+		<currency name="AUD" ctname="澳幣">
+			<item value="AUD"/>
+			<item value="澳幣"/>
+		</currency>
+		<currency name="CAD" ctname="加拿大幣">
+			<item value="CAD"/>
+			<item value="加拿大幣"/>
+		</currency>
+		<currency name="CNY" ctname="人民幣">
+			<item value="RMB"/>
+			<item value="CNY"/>
+			<item value="人民幣"/>
+		</currency>
+	</synonymous>
+	<teachcontent>
+		<item>1.詢問方式,請用**問** 再加上原幣別及金額加上**換**想要交換的幣別,將會以當時所抓到的匯率自動計算可換的金額</item>
+		<item>2.例如:**台幣10000換日幣**</item>
+		<item>3.本服務僅供參考,請以銀行公告牌價為交易依據</item>
+		<item>4.忘記怎麼問匯率時,可以使用**問**以及**匯率怎麼用**來詢問</item>
+	</teachcontent>
+</root>

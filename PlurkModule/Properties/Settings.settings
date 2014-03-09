@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PlurkModule.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DecimalSynonymousFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Plurker\AssemblyDLL\Exrate.xml</Value>
+    </Setting>
+    <Setting Name="PlurkModule_net_webservicex_www_CurrencyConvertor" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.webservicex.net/CurrencyConvertor.asmx</Value>
+    </Setting>
+    <Setting Name="PlurkModule_5Floor_ThreadCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
